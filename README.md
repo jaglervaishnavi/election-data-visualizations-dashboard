@@ -32,7 +32,10 @@ The dataset includes:
 3. Explore different visualizations
 
  📷 Dashboard Preview
-(Add screenshots here)
+("D:\movies\state analysis.png")
+("D:\movies\constituency analysis.png")
+("D:\movies\party performance analysis.png")
+("D:\movies\overview analysis.png")
 
 🎯 Objective
 To provide meaningful insights from election data and support better decision-making using data visualization.
