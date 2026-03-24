@@ -1,5 +1,6 @@
 # election-data-visualizations-dashboard
 📌 Project Overview
+
 This project focuses on analyzing and visualizing election data using interactive dashboards. It helps in understanding voting patterns, party performance, and regional insights. The Election Analysis Dashboard is an interactive Power BI project that provides detailed insights into election results at multiple levels, including state, constituency, and political party performance.
 
 This dashboard enables users to explore voting patterns, analyze outcomes, and identify key trends through dynamic visualizations.
